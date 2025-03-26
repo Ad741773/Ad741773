@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://infistudy.github.io/Prateek-portfolio-/)  
 - 📫 How to reach me **pktsky648@gmail.com**  
 - 📄 Know about my experiences [Resume](https://infistudy.github.io/Prateek-portfolio-/)  
-- ⚡ Fun fact **If I feel bored, I just start arguing 😁**  
+- ⚡ Fun fact **If you feel bored, I just start arguing 😁**  
 
 ---
 
