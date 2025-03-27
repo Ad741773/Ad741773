@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/its_pratik_tripathi?igsh=MTJnbjh0ODVmbDdhOQ==" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.hackerearth.com/prateek-kumar" target="_blank">
+  <a href="https://https://www.hackerrank.com/profile/d23276292" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
   </a>
 </p>
