@@ -1,80 +1,86 @@
-<h1 align="center">Hi 👋, I'm Prateek Kumar</h1>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#1E90FF;">Prateek Kumar</span> — Your Data Whisperer</h1>
 
 <h3 align="center">
   <a href="https://github.com/ad741773">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=A+Passionate+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Transforming+Data+Into+Insights;Building+Interactive+Dashboards;Data+Cleaning+%26+Visualization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Your+Data+Whisperer.;I+Don’t+Just+Analyze+Data,+I+Talk+To+It.;BI+Engineer+%7C+Data+Strategist+%7C+Automator.;Shaping+Tomorrow+With+Today's+Data.;AI+Enthusiast+%7C+Future-Ready+Problem+Solver." alt="Typing SVG" />
   </a>
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ad741773&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ad741773&label=Future+Visits&color=1E90FF&style=flat-square" alt="Profile Views" />
 </p>
-
-- 🌱 I’m currently learning **Python for Data Analysis**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://infistudy.github.io/Prateek-portfolio-/)  
-- 📫 How to reach me **pktsky648@gmail.com**  
-- 📄 Know about my experiences [Resume](https://infistudy.github.io/Prateek-portfolio-/)  
-- ⚡ Fun fact **If you feel bored,just start arguing with me 😁**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prateek-kumar-tripathi-16aa58344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+### 🧠 About Me
+- 🔍 A **Data-Driven Storyteller** passionate about transforming chaos into clarity.
+- 🧩 Solving complex puzzles using **Python, SQL, Power BI & Machine Learning**.
+- 🧠 Currently exploring **AI-Powered Analytics & Automation**.
+- 🔭 Working on a personal AI dashboard that adapts to decision-making patterns.
+- 🌐 Portfolio: [**My Interactive Portfolio**](https://infistudy.github.io/Prateek-portfolio-/)
+- 📜 Resume: [**View My Futuristic Resume**](https://infistudy.github.io/Prateek-portfolio-/)
+- ✉️ Connect: **pktsky648@gmail.com**
+
+---
+
+### 🔗 Let's Network Like Neural Nets
+<p align="center">
+  <a href="https://www.linkedin.com/in/prateek-kumar-tripathi-16aa58344" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/its_pratik_tripathi?igsh=MTJnbjh0ODVmbDdhOQ==" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/its_pratik_tripathi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/profile/d23276292" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Skills:</h3>
-<ul>
-  <li>📊 Excel</li>
-  <li>📈 Power BI</li>
-  <li>🐍 Python</li>
-  <li>🔢 SQL</li>
-  <li>💻 HTML & CSS</li>
-</ul>
+### 🛠 Tech Arsenal
+
+| Analytics & BI | Data Tools | Programming | Automation | Visualization |
+|----------------|------------|-------------|------------|---------------|
+| Excel | Tally | Python | Power Query | Power BI |
+| Google Sheets | Power BI | Pandas | VBA Macros | Dash & Plotly |
+| SQL | APIs & Web Scraping | HTML & CSS | Python Scripts | Tableau (learning) |
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a>
+### ⚡️ Skills That Make Data Dance
+
+- **Insight Extraction** using statistical techniques & domain logic  
+- **Dashboard Design** that tells compelling, real-time stories  
+- **Predictive Analytics** with regression models & ML frameworks  
+- **Data Cleaning Pro** with pandas, Power Query & Excel magic  
+- **Automation Wizardry** with Python & advanced formulas  
+
+---
+
+### 📈 GitHub Analytics & Cool Visuals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ad741773&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ad741773&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad741773&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad741773&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
-</p>
+### 🎯 Vision Statement
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad741773&" alt="GitHub Streak" />
-</p>
+> “In a world flooded with data, I stand at the intersection of curiosity and clarity, designing systems that turn numbers into narratives and dashboards into decisions.”
+
+---
+
+### ⚡ Fun Fact:
+> If you think your dataset is too messy... I probably already cleaned worse.
+
+---
