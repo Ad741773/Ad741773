@@ -24,15 +24,16 @@
 ---
 
 ### 🔗 Let's Network Like Neural Nets
-<p align="center">
+
+<p align="left">
   <a href="https://www.linkedin.com/in/prateek-kumar-tripathi-16aa58344" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
   <a href="https://www.instagram.com/its_pratik_tripathi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="margin-right: 10px;" />
   </a>
   <a href="https://www.hackerrank.com/profile/d23276292" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank"/>
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank" style="margin-right: 10px;" />
   </a>
 </p>
 
@@ -40,11 +41,11 @@
 
 ### 🛠 Tech Arsenal
 
-| Analytics & BI | Data Tools | Programming | Automation | Visualization |
-|----------------|------------|-------------|------------|---------------|
-| Excel | Tally | Python | Power Query | Power BI |
-| Google Sheets | Power BI | Pandas | VBA Macros | Dash & Plotly |
-| SQL | APIs & Web Scraping | HTML & CSS | Python Scripts | Tableau (learning) |
+| Analytics & BI | Data Tools | Programming | Visualization |
+|----------------|------------|-------------|---------------|
+| Excel | Tally | Python | Power BI |
+| Google Sheets | Power BI | Pandas | Tableau (learning) |
+| SQL |HTML & CSS |
 
 ---
 
@@ -67,20 +68,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ad741773&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad741773&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🎯 Vision Statement
-
-> “In a world flooded with data, I stand at the intersection of curiosity and clarity, designing systems that turn numbers into narratives and dashboards into decisions.”
-
----
-
-### ⚡ Fun Fact:
-> If you think your dataset is too messy... I probably already cleaned worse.
-
----
